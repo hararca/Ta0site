@@ -54,8 +54,8 @@ nav ul {
 
     a {
         border-radius: 50%;
-        background-color: black;
-        color: white;
+        background-color: #000;
+        color: #fff;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -155,8 +155,8 @@ iframe {
 
     a {
         border-radius: 50%;
-        background-color: black;
-        color: white;
+        background-color: #000;
+        color: #fff;
         display: flex;
         align-items: center;
         justify-content: center;
